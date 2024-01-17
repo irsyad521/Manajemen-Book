@@ -26,8 +26,8 @@ You may list what feature you created, example :
 
 ## <a name="libraries"></a> Libraries :
 You may list what libraries you used in this project, example :
-- Frontend => React Js,Axios,quill Editor,Fontawesome
-- Backend  => Express Js,Mysql,Sequalize,multer
+- Frontend => react js,axios,quill Editor,fontawesome
+- Backend  => express js,mysql,sequalize,multer
 
 
 ## <a name="project-structures"></a> Project Structure :
