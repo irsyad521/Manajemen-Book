@@ -1,4 +1,4 @@
-# Manajemen Story/Book
+# Kampus Merdeka BIGIO.ID
 
 ## <a name="introduction"></a> Introduction :
 proyek full-stack JavaScript untuk mengelola cerita dan bab menggunakan database mysql . Proyek ini mencakup dua tabel utama: stories dan chapters. Tabel stories menyimpan detail cerita, seperti judul, penulis, dan kategori dan lain lain.  sedangkan tabel chapters berisi informasi bab individual
